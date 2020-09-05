@@ -1,4 +1,3 @@
-console.log("Hello");
 
 var num1 = document.getElementById('number1')
 var num2 = document.getElementById('number2')
